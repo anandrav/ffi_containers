@@ -1,0 +1,6 @@
+[package]
+name = "ffi_containers"
+version = "0.1.0"
+authors = ["Anand Dukkipati <aRdukkipati@gmail.com>"]
+edition = "2024"
+
